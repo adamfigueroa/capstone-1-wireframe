@@ -26,9 +26,9 @@ As an admin:
 https://trello.com/b/1CrHSQGx/shelf-life-app
 
 Trello key:
-Red = High Priority
-Yellow = Medium Priority
-Green = Low Priority
+- Red = High Priority
+- Yellow = Medium Priority
+- Green = Low Priority
 
 -------------------------------------------------------------------------------------------
 
